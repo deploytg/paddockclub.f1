@@ -33,6 +33,9 @@
   <link rel="manifest" href="manifest.json">
 
   <script>
+if (window.location.href.match(/#.*/)) {
+	window.location = window.location.href.replace( /#.*/, "");
+}
     // The value below is injected by flutter build, do not touch.
     var serviceWorkerVersion = '2379280496';
   </script>
