@@ -21,7 +21,7 @@ const RESOURCES = {
 "assets/assets/teams/icon/Williams.png": "3468a7245265b719c28ec9cd0bc059a6",
 "assets/FontManifest.json": "2819020c56c01a2851734fe29bdb9c48",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "67eed53c38d6bf994c8f426d6a7465a8",
+"assets/NOTICES": "32fb7e3c37f6abbef7413462168e8458",
 "assets/packages/country_icons/icons/flags/png/2.5x/ad.png": "9ab17d57db08e440f27c65f0b29bd520",
 "assets/packages/country_icons/icons/flags/png/2.5x/ae.png": "fd9b156fd27b63807fb4c0755cd2a073",
 "assets/packages/country_icons/icons/flags/png/2.5x/af.png": "974a6eb9adf8fdae81660d4e5dc5ba2e",
@@ -799,9 +799,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "13517fa70c8e1e1aa8a92babb508f043",
-"/": "13517fa70c8e1e1aa8a92babb508f043",
-"main.dart.js": "bd0ddc7bf5a765d4a15a3c0c9fa6f99e",
+"index.html": "064c94d4ea3b639cfa473a081c740045",
+"/": "064c94d4ea3b639cfa473a081c740045",
+"main.dart.js": "cdda8a6b4d7b4690f1dbecf97481c5ce",
 "manifest.json": "9f6ac325fb156dc6d5528a2b16e52bfb",
 "version.json": "549bdb20b2d5db7b726272b1453006d6"
 };
